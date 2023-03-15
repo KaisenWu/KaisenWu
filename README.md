@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaisen</h1>
 <h3 align="center">Data Analyst, Web Developer and Machine Learning Engineer</h3>
+<img align="center" src='https://pbs.twimg.com/media/FrPWnzbakAAqRxK?format=jpg&name=medium'/>
+
 
 <img align="right" alt="Coding" src="https://media2.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b952fe693ozbya3acy86ksbw2cl1cruyp2cu3b191qsx&rid=200w.gif&ct=g" width='400px'>
 
